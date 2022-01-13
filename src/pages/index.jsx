@@ -21,6 +21,12 @@ export default function Home() {
         destino="/cliente/BA/122223"
         color="#dfa937"
       />
+      <Navegador
+        texto="Componente com estado"
+        destino="/estado"
+        color="#3f954e"
+      />
+      <Navegador texto="API" destino="/integracao" color="#527fb3" />
     </div>
   )
 }
