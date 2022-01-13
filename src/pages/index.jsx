@@ -27,6 +27,11 @@ export default function Home() {
         color="#3f954e"
       />
       <Navegador texto="API" destino="/integracao" color="#527fb3" />
+      <Navegador
+        texto="Conteúdo estático"
+        destino="/estatico"
+        color="#fa054e"
+      />
     </div>
   )
 }
